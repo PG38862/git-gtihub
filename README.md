@@ -1,2 +1,2 @@
-# git-gtihub
+# git-github
 This is a tutorial 
